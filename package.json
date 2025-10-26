@@ -1,0 +1,30 @@
+{
+  "name": "agentic-3dae03bc-main",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.6",
+    "@react-three/fiber": "^9.4.0",
+    "lightningcss": "^1.30.2",
+    "lucide-react": "^0.548.0",
+    "next": "latest",
+    "papaparse": "^5.5.3",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "^3.3.0",
+    "tailwindcss": "^3.2.0",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.9.1",
+    "@types/react": "19.2.2",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "typescript": "5.9.3"
+  }
+}
